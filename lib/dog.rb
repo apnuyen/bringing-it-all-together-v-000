@@ -1,10 +1,10 @@
-class Dog 
-  attr_accessor  :name, :breed 
-  attr_reader :id 
+class Dog
+  attr_accessor  :name, :breed
+  attr_reader :id
 
   def initialize()
-  end 
+  end
 
-  def self.create_table 
-  end 
-end 
+  def self.create_table
+  end
+end
